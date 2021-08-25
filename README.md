@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2E22F7&vCenter=true&multiline=true&height=100&lines=export+function+GitProfile()+%7B%7D;render+%3CGitProfile%2F%3E;npm+start)](https://git.io/typing-svg)
 
-<img src="./images/Programmer.gif" align="right" width="400" />
+<img src="./images/Programmer.gif" align="right" width="500" />
 
 # Lenguajes y tecnologías
 
@@ -15,6 +15,8 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 # Contacto
+### Correo: <a href="mailto:jjejalil@gmail.com">jjejalil@gmail.com </a>
+### LinkedIn: <a href="https://www.linkedin.com/in/jeremiasjalil/" target="_blank">in/jeremiasjalil/ </a>
 
 # Proyectos
  
@@ -26,7 +28,7 @@
 
 <img src="./images/artAppCapt.jpg"  />
 
-<a href="https://jeremias-jalil.github.io/react-art-proyect/">🌐 Ver proyecto</a> | <a https://github.com/jeremias-jalil/react-art-proyect"> 📂 Ver repo</a>
+<a href="https://jeremias-jalil.github.io/react-art-proyect/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/react-art-proyect" target="_blank"> 📂 Ver repo</a>
 
 ## URGames
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -36,7 +38,7 @@
 
 <img src="./images/urGamesCapt.jpg"  />
 
-<a href="https://jeremias-jalil.github.io/ur-games/">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/ur-games"> 📂 Ver repo</a>
+<a href="https://jeremias-jalil.github.io/ur-games/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/ur-games" target="_blank"> 📂 Ver repo</a>
 
 ## FSGuide
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -46,10 +48,12 @@
 
 <img src="./images/fsGuideCapt.jpg"  />
 
-<a href="https://jeremias-jalil.github.io/react-art-proyect/">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/fs-guide"> 📂 Ver repo</a>
+<a href="https://jeremias-jalil.github.io/react-art-proyect/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/fs-guide" target="_blank"> 📂 Ver repo</a>
 
 
 <br/>
+
+
 
 <!--
 **jeremias-jalil/jeremias-jalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
