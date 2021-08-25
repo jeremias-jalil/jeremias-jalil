@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2E22F7&vCenter=true&multiline=true&height=100&lines=export+function+GitProfile()+%7B%7D;render+%3CGitProfile%2F%3E;npm+start)](https://git.io/typing-svg)
 
-
+<img src="./images/Programmer.gif" align="right" width="500" />
 
 # Lenguajes y tecnologías
 
