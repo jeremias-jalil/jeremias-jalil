@@ -48,7 +48,7 @@
 
 <img src="./images/fsGuideCapt.jpg"  />
 
-<a href="https://jeremias-jalil.github.io/react-art-proyect/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/fs-guide" target="_blank"> 📂 Ver repo</a>
+<a href="https://jeremias-jalil.github.io/fs-guide/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/fs-guide" target="_blank"> 📂 Ver repo</a>
 
 
 <br/>
