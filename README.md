@@ -20,15 +20,21 @@
 
 # Proyectos
  
-## Art-App
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white "><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+## Makelaar
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white "><img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
-<p>Mi primer proyecto iniciado desde cero en React-Redux, si bien no está perfecto fue mi primer aplicación funcional y la quiero conservar de recuerdo ☺️ porque  marca el incio de una gran pasión.</p>
+<p>Este es un proyecto grupal realizado en conjunto con otros 6 integrantes cuyo objetivo fue el cierre del bootcamp #SoyHenry. Se utilizó la metodología Scrum para el desarrollo donde mi participación se enfocó en la coordinación del equipo, unificación y conexión entre componentes y funcionalidades, implementación de Clowdinary para la gestión de imágenes y documentos, la elaboración del panel del administrador, entre otras actividades.<p>
 
-<img src="./images/artAppCapt.jpg"  />
+<p>A modo de resumen, el proyecto fue enfocado en ofrecer una solución integral a las inmobiliarias donde en una sola plataforma pueda gestionar todas sus propiedades, sus clientes, sus contratos y la gestión del pago de los alquileres. Es por ello que se incluyó GoogleMaps para geolocalizar tanto las propiedades como los visitantes, y se implementó MercadoPago como medio para facilitar a los clientes sus pagos. <p>
 
-<a href="https://jeremias-jalil.github.io/react-art-proyect/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/react-art-proyect" target="_blank"> 📂 Ver repo</a>
+### Lo invitamos a ver nuestro video de presentación
+
+[![Alt text](https://img.youtube.com/vi/ymsuwoBvcvI/0.jpg)](https://youtu.be/ymsuwoBvcvI)
+
+<img src="./images/makelaarCapt.jpg"  />
+
+<a href="https://makelaar.vercel.app/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/Simon834/Makelaar" target="_blank"> 📂 Ver repo</a>
 
 ## URGames
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -50,6 +56,15 @@
 
 <a href="https://jeremias-jalil.github.io/fs-guide/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/fs-guide" target="_blank"> 📂 Ver repo</a>
 
+## Art-App
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white "><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+
+<p>Mi primer proyecto iniciado desde cero en React-Redux, si bien no está perfecto fue mi primer aplicación funcional y la quiero conservar de recuerdo ☺️ porque  marca el incio de una gran pasión.</p>
+
+<img src="./images/artAppCapt.jpg"  />
+
+<a href="https://jeremias-jalil.github.io/react-art-proyect/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/react-art-proyect" target="_blank"> 📂 Ver repo</a>
 
 <br/>
 
