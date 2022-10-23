@@ -44,7 +44,7 @@
 
 <img src="./images/urGamesCapt.jpg"  />
 
-<a href="https://jeremias-jalil.github.io/ur-games/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/ur-games" target="_blank"> 📂 Ver repo</a>
+<a href="https://pi-ur-games.web.app/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/PI-Videogames" target="_blank"> 📂 Ver repo</a>
 
 ## FSGuide
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
