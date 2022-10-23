@@ -34,7 +34,7 @@
 
 <img src="./images/makelaarCapt.jpg"  />
 
-<a href="https://makelaar.vercel.app/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/Simon834/Makelaar" target="_blank"> 📂 Ver repo</a>
+<a href="https://makelaar.web.app/" target="_blank">🌐 Ver proyecto</a> | <a href="https://github.com/jeremias-jalil/Makelaar" target="_blank"> 📂 Ver repo</a>
 
 ## URGames
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
